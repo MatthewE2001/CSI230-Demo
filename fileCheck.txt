@@ -1,0 +1,6 @@
+champlain.edu
+uvm.edu
+umd.edu
+uconn.edu
+doesnotexist.edu
+http://www.gutenberg.org/cache/epub/41935/pg41935.txt
